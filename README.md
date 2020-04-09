@@ -1,4 +1,4 @@
-Please visit https://wisdompeak.github.io/lc-score-board/ 
+
 
 
 Functions include:
